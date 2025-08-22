@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252006481060",
+    "project_id": "hungryhive-b268b",
+    "storage_bucket": "hungryhive-b268b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252006481060:android:39e433643455ecc3913a31",
+        "android_client_info": {
+          "package_name": "com.example.hungry_hive_app_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxlakNa262LWFSRR5DAAHssT_P-lO5XFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
