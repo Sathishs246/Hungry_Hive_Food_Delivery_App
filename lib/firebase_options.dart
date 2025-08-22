@@ -53,8 +53,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDxlakNa262LWFSRR5DAAHssT_P-lO5XFo',
-    appId: '1:252006481060:android:39e433643455ecc3913a31',
+    apiKey: 'your_new_key_here',
+    appId: 'your_new_id_here',
     messagingSenderId: '252006481060',
     projectId: 'hungryhive-b268b',
     storageBucket: 'hungryhive-b268b.firebasestorage.app',
