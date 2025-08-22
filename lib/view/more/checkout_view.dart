@@ -184,7 +184,7 @@ class _CheckoutViewState extends State<CheckoutView> {
               title: "Pay Now",
               onPressed: () {
                 var options = {
-                  'key': 'rzp_test_xz4KhfnrxFpSAn',
+                  'key': 'Your_api_key',
                   'amount': (total * 100).toInt(),
                   'name': 'Hungry Hive',
                   'description': 'Food Order Payment',
